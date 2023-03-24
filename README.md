@@ -24,25 +24,25 @@
   - [答案](s2/3757D.md)
 ### 日期问题
 - [3607.打印日期](https://www.acwing.com/activity/content/problem/content/4300/)
-  - [答案](s2/3607D.cpp)
+  - [答案](s2/3607D.md)
 - [3573.日期累加](https://www.acwing.com/problem/content/3576/)
-  - [答案](s2/3573D.cpp)
+  - [答案](s2/3573D.md)
 
 ## 第三讲 表达式求值
 ### 表达式求值
 - [3302.表达式求值](https://www.acwing.com/problem/content/3769/)
-  - [答案](s3/3302D.cpp)
+  - [答案](s3/3302D.md)
 ## 第四讲 树的遍历
 ### 树的遍历
 - [3766.二叉树的带权路径长度](https://www.acwing.com/problem/content/3769/)
-  - [答案](s4/3766D.cpp)
+  - [答案](s4/3766D.md)
 - [18.重建二叉树](https://www.acwing.com/problem/content/3576/)
-  - [答案](s4/18D.cpp)
+  - [答案](s4/18D.md)
   
 ## 第五讲 二叉搜索树与表达式树
 ### 二叉搜索树
 - [3786.二叉排序树](https://www.acwing.com/problem/content/3769/)
-  - [答案](s5/3786D.cpp)
+  - [答案](s5/3786D.md)
 - [18.重建二叉树](https://www.acwing.com/problem/content/3576/)
-  - [答案](s5/3765D.cpp)
+  - [答案](s5/3765D.md)
 
