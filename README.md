@@ -27,3 +27,14 @@
   - [答案](s2/3607D.cpp)
 - [3573.日期累加](https://www.acwing.com/problem/content/3576/)
   - [答案](s2/3573D.cpp)
+
+## 第三讲 表达式求值
+### 表达式求值
+- [3302.表达式求值](https://www.acwing.com/problem/content/3769/)
+  - [答案](s3/3302D.cpp)
+## 第四讲 树的遍历
+### 树的遍历
+- [3766.二叉树的带权路径长度](https://www.acwing.com/problem/content/3769/)
+  - [答案](s4/3766D.cpp)
+- [18.重建二叉树](https://www.acwing.com/problem/content/3576/)
+  - [答案](s4/18D.cpp)
