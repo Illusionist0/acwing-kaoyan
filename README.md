@@ -43,6 +43,6 @@
 ### 二叉搜索树
 - [3786.二叉排序树](https://www.acwing.com/problem/content/3769/)
   - [答案](s5/3786D.md)
-- [18.重建二叉树](https://www.acwing.com/problem/content/3576/)
+- [3765.表达式树](https://www.acwing.com/problem/content/3768/)
   - [答案](s5/3765D.md)
 
