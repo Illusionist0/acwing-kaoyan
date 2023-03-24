@@ -41,5 +41,8 @@
   
 ## 第五讲 二叉搜索树与表达式树
 ### 二叉搜索树
-- [二叉排序树](s)
+- [3786.二叉排序树](https://www.acwing.com/problem/content/3769/)
+  - [答案](s5/3786D.cpp)
+- [18.重建二叉树](https://www.acwing.com/problem/content/3576/)
+  - [答案](s5/3765D.cpp)
 
