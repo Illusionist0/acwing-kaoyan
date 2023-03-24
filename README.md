@@ -24,9 +24,9 @@
   - [答案](s2/3757D.md)
 ### 日期问题
 - [3607.打印日期](https://www.acwing.com/activity/content/problem/content/4300/)
-  - [答案](s2/3607D.md)
+  - [答案](s2/3607D.cpp)
 - [3573.日期累加](https://www.acwing.com/problem/content/3576/)
-  - [答案](s2/3573D.md)
+  - [答案](s2/3573D.cpp)
 
 ## 第三讲 表达式求值
 ### 表达式求值
