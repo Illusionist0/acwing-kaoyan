@@ -54,3 +54,5 @@
 - [3504.字符串转换整数](https://www.acwing.com/problem/content/3507/)
   - [答案](s15/3504D.md)
 ### 递归
+- [3441.重复者](https://www.acwing.com/problem/content/3444/)
+  - [答案](s15/3444D.md)
