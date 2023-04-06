@@ -51,3 +51,6 @@
   - [答案](s15/3439D.md)
 - [3406.日志排序](https://www.acwing.com/problem/content/3409/)
   - [答案](s15/3406D.md)
+- [3504.字符串转换整数](https://www.acwing.com/problem/content/3507/)
+  - [答案](s15/3504D.md)
+### 递归
